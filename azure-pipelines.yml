@@ -17,7 +17,7 @@ steps:
     subscriptionId: '167b3c2f-10b7-4a5e-95ac-10933cf85c52'
     action: 'Create Or Update Resource Group'
     resourceGroupName: 'AzureRmPipeline-rg'
-    location: 'Finland'
+    location: 'Central US'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/oabuv/AzureRmPipeline-repo/main/CreateWebApp/azuredeploy.json'
     overrideParameters: '-projectName pipelinetesting'
